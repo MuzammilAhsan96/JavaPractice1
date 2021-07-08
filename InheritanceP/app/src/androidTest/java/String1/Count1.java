@@ -7,6 +7,7 @@ public class Count1
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a sentence");
         String s=sc.nextLine();
+        s=s.trim();
         s=s+" ";
         int c=0;
         for(int i=0;i<s.length();i++)
