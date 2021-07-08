@@ -44,6 +44,34 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TrainingAlok" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TrainingAlok" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TrainingAlok" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -63,6 +91,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -252,6 +281,18 @@
       <screen x="76" y="34" width="1844" height="1046" />
     </state>
     <state width="1788" height="222" key="GridCell.Tab.0.right/76.34.1844.1046@76.34.1844.1046" timestamp="1625724746420" />
+    <state x="236" y="66" width="1647" height="873" key="MergeDialog" timestamp="1625744205847">
+      <screen x="76" y="34" width="1844" height="1046" />
+    </state>
+    <state x="236" y="66" width="1647" height="873" key="MergeDialog/76.34.1844.1046@76.34.1844.1046" timestamp="1625744205847" />
+    <state x="540" y="264" width="906" height="593" key="MultipleFileMergeDialog" timestamp="1625744205850">
+      <screen x="76" y="34" width="1844" height="1046" />
+    </state>
+    <state x="540" y="264" width="906" height="593" key="MultipleFileMergeDialog/76.34.1844.1046@76.34.1844.1046" timestamp="1625744205850" />
+    <state x="739" y="456" width="508" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625744041016">
+      <screen x="76" y="34" width="1844" height="1046" />
+    </state>
+    <state x="739" y="456" width="508" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/76.34.1844.1046@76.34.1844.1046" timestamp="1625744041016" />
     <state x="577" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1625719636625">
       <screen x="76" y="34" width="1844" height="1046" />
     </state>
