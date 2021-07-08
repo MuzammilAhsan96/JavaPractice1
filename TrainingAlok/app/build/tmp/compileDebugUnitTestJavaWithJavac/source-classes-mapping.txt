@@ -1,0 +1,2 @@
+com/example/trainingalok/ExampleUnitTest.java
+ com.example.trainingalok.ExampleUnitTest

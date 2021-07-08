@@ -1,0 +1,4 @@
+com/example/trainingalok/ExampleInstrumentedTest.java
+ com.example.trainingalok.ExampleInstrumentedTest
+com/example/trainingalok/test/BuildConfig.java
+ com.example.trainingalok.test.BuildConfig

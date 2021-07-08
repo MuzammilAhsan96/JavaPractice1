@@ -1,0 +1,14 @@
+com/example/trainingalok/BuildConfig.java
+ com.example.trainingalok.BuildConfig
+com/example/trainingalok/MainActivity.java
+ com.example.trainingalok.MainActivity
+com/example/trainingalok/basicjava/MyClassElements.java
+ com.example.trainingalok.basicjava.MyClassElements
+com/example/trainingalok/basicjava/DataTypes.java
+ com.example.trainingalok.basicjava.DataTypes
+com/example/trainingalok/Practice/Maximum.java
+ com.example.trainingalok.Practice.Maximum
+com/example/trainingalok/Practice/SumOfDigits.java
+ com.example.trainingalok.Practice.SumOfDigits
+com/example/trainingalok/Practice/WordCount.java
+ com.example.trainingalok.Practice.WordCount
