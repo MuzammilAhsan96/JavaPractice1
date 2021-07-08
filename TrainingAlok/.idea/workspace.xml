@@ -28,14 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ecb81f-fa1d-4924-950e-8cb1de1d66be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/trainingalok/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/trainingalok/Practice/Maximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/trainingalok/Practice/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/trainingalok/Practice/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/trainingalok/basicjava/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/trainingalok/basicjava/MyClassElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InheritanceP/app/src/androidTest/java/String1/Count1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceP/app/src/androidTest/java/String1/Count1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +64,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager" selected="Application.WordCount">
@@ -235,24 +229,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1788" height="222" key="GridCell.Tab.0.bottom" timestamp="1625723383298">
+    <state x="728" y="258" width="530" height="605" key="FileChooserDialogImpl" timestamp="1625724881836">
       <screen x="76" y="34" width="1844" height="1046" />
     </state>
-    <state width="1788" height="222" key="GridCell.Tab.0.bottom/76.34.1844.1046@76.34.1844.1046" timestamp="1625723383298" />
-    <state width="1788" height="222" key="GridCell.Tab.0.center" timestamp="1625723383298">
+    <state x="728" y="258" width="530" height="605" key="FileChooserDialogImpl/76.34.1844.1046@76.34.1844.1046" timestamp="1625724881836" />
+    <state width="1788" height="222" key="GridCell.Tab.0.bottom" timestamp="1625724746420">
       <screen x="76" y="34" width="1844" height="1046" />
     </state>
-    <state width="1788" height="222" key="GridCell.Tab.0.center/76.34.1844.1046@76.34.1844.1046" timestamp="1625723383298" />
-    <state width="1788" height="222" key="GridCell.Tab.0.left" timestamp="1625723383297">
+    <state width="1788" height="222" key="GridCell.Tab.0.bottom/76.34.1844.1046@76.34.1844.1046" timestamp="1625724746420" />
+    <state width="1788" height="222" key="GridCell.Tab.0.center" timestamp="1625724746419">
       <screen x="76" y="34" width="1844" height="1046" />
     </state>
-    <state width="1788" height="222" key="GridCell.Tab.0.left/76.34.1844.1046@76.34.1844.1046" timestamp="1625723383297" />
-    <state width="1788" height="222" key="GridCell.Tab.0.right" timestamp="1625723383298">
+    <state width="1788" height="222" key="GridCell.Tab.0.center/76.34.1844.1046@76.34.1844.1046" timestamp="1625724746419" />
+    <state width="1788" height="222" key="GridCell.Tab.0.left" timestamp="1625724746419">
       <screen x="76" y="34" width="1844" height="1046" />
     </state>
-    <state width="1788" height="222" key="GridCell.Tab.0.right/76.34.1844.1046@76.34.1844.1046" timestamp="1625723383298" />
+    <state width="1788" height="222" key="GridCell.Tab.0.left/76.34.1844.1046@76.34.1844.1046" timestamp="1625724746419" />
+    <state width="1788" height="222" key="GridCell.Tab.0.right" timestamp="1625724746420">
+      <screen x="76" y="34" width="1844" height="1046" />
+    </state>
+    <state width="1788" height="222" key="GridCell.Tab.0.right/76.34.1844.1046@76.34.1844.1046" timestamp="1625724746420" />
     <state x="577" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1625719636625">
       <screen x="76" y="34" width="1844" height="1046" />
     </state>
@@ -265,7 +264,7 @@
     <SUITE FILE_PATH="coverage/TrainingAlok$DataTypes.ic" NAME="DataTypes Coverage Results" MODIFIED="1625720520100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.example.trainingalok.basicjava.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/TrainingAlok$WordCount.ic" NAME="WordCount Coverage Results" MODIFIED="1625723383287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/TrainingAlok$WordCount.ic" NAME="WordCount Coverage Results" MODIFIED="1625724374816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.example.trainingalok.Practice.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/TrainingAlok$Maximum.ic" NAME="Maximum Coverage Results" MODIFIED="1625723065406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
